@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy aprendiendo desarrollo web y movil.
 
-- 📫 Como contactarme **marisolzapatagallego53@gmail.com**
+- 📫 Como contactarme: **marisolzapatagallego53@gmail.com**
 
 - ⚡ Dato divertido: Comida y música 🎵 son razones para vivir.
 
